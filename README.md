@@ -1,1 +1,1 @@
-## GraphQL tutorial
+## GraphQL
